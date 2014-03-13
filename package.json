@@ -1,0 +1,11 @@
+{
+  "name": "neo4j-embedded-example",
+  "version": "0.0.0",
+  "description": "This is an example usage scenario for neo4j as embedded Java Application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jochen Weis",
+  "license": "BSD-2-Clause"
+}
